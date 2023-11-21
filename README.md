@@ -56,7 +56,7 @@ My journey into the world of data began with the COEQUIPO project during univers
 
 My interest data analysis deepened during my role as a Human Rights Cabinet Advisor, creating dashboards and reports and integrating information across different areas. Subsequently, I took on consultant roles, leading international expansion projects in B2B technology service companies, where I designed strategies and measured KPIs in marketing and sales. 📈📊
 
-Motivated by my growing interest in the data realm, I decided to professionalize myself with courses on Datacamp and certifications in Data Analytics and Data Science from Coderhouse.
+Motivated by my growing interest in the data world , I decided to professionalize myself with courses on Datacamp and certifications in Data Analytics and Data Science from Coderhouse.
 
 This repository is a space where I share part of my experience and knowledge in data analysis. Explore and discover more about my journey in the exciting world of data! 🚀  
   
