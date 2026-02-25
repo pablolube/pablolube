@@ -67,6 +67,33 @@ Explore this repository to discover projects, case studies, and personal challen
 </tr>
 </table>
 
+
+
+---
+
+## 📂 Portafolio: Proyectos Destacados
+
+> ### 📊 Análisis de Gestión Pública
+> **Enfoque:** Visualización de KPIs y Dashboards para la toma de decisiones gubernamentales.
+> **Tech:** `Power BI` `Looker Studio` `DAX` `SQL`.
+> [**Ver Repositorio →**](TU_LINK_AQUI)
+
+> ### 🐍 Machine Learning 
+> **Enfoque:** Modelado estadístico y predicción de datos aplicados a problemas de negocio.
+> **Tech:** `Python` `Pandas` `Scikit-Learn` `Scipy`.
+> [**Ver Repositorio →**](TU_LINK_AQUI)
+
+> ### 🗄️ Optimización de Procesos ETL
+> **Enfoque:** Limpieza, transformación y estructuración de grandes bases de datos
+> **Tech:** `SQL` `SSIS` `Power Query` `Python`
+> [**Ver Repositorio →**](TU_LINK_AQUI)
+
+> ### 🌎 Business Intelligence B2B
+> **Enfoque:** Análisis de penetración de mercados y seguimiento de estrategias de ventas.
+> **Tech:** `Excel Avanzado` `Power Pivot` `Tableau` `Google Analytics.
+> [**Ver Repositorio →**](TU_LINK_AQUI)
+
+---
 ---
 
 ## 🔗 Let's Connect
