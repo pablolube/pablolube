@@ -41,24 +41,25 @@ Soy un apasionado por el **análisis de datos, la visualización y el machine le
 
 | 📊 Gestión Pública & Analytics | 🐍 Machine Learning & Data Science |
 | :--- | :--- |
-| **Enfoque:** Transformación de datos gubernamentales en Dashboards estratégicos. | **Enfoque:** Desarrollo de modelos predictivos y análisis estadístico avanzado. |
+| **Enfoque:** Transformación de datos en Dashboards estratégicos. | **Enfoque:** Desarrollo de modelos predictivos y análisis estadístico avanzado. |
 |  `Power BI` `Looker Studio` `SQL` `DAX` |  `Python` `Pandas` `Scikit-Learn` `Numpy` |
-| 🔗 [**Ver Proyecto →**](TU_LINK_AQUI) | 🔗 [**Ver Proyecto →**](TU_LINK_AQUI) |
+| 🔗 [**Ver Proyecto →**](https://github.com/pablolube/Analytics-projects) | 🔗 [**Ver Proyecto →**](https://github.com/pablolube/ML_Prediction_Models) |
 
-| 🗄️ Ingeniería de Datos (ETL) | 🌎 Estrategia B2B & BI |
+| 🗄️ Ingeniería de Datos (ETL) | 🌎 Gestión de Bases de Datos |
 | :--- | :--- |
-| **Enfoque:** Arquitectura de procesos de limpieza y estructuración a gran escala. | **Enfoque:** Análisis de mercado e internacionalización mediante KPIs. |
-|  `SQL` `SSIS` `Python` `Power Query` |  `Excel` `Power Pivot` `Tableau` `GA4` |
-| 🔗 [**Ver Proyecto →**](TU_LINK_AQUI) | 🔗 [**Ver Proyecto →**](TU_LINK_AQUI) |
+| **Enfoque:** Arquitectura de procesos de limpieza de datos | **Enfoque:** Diseño de estructuras ABM y consulta de información |
+|  `SQL` `SSIS` `Python` `N8N` |  `SQL` `Neo4j` `Mongo DB` `MySQL` |
+| 🔗 [**Ver Proyecto →**](https://github.com/pablolube/Data-Engineer-Projects) | 🔗 [**Ver Proyecto →**](https://github.com/pablolube/Database-Projects) |
 
 ---
 
-## 📊 Estadísticas de GitHub
+## 📊 Mi Actividad en GitHub
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablolube&show_icons=true&theme=visual_studio_dark&hide_border=true" width="48%" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablolube&layout=compact&theme=visual_studio_dark&hide_border=true" width="40%" />
-</div>
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablolube&show_icons=true&theme=visual_studio_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Estadísticas de Pablo Luberriaga" />
+  
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablolube&layout=compact&theme=visual_studio_dark&hide_border=true&langs_count=6" width="42%" alt="Lenguajes más usados" />
+</p>
 
 ---
 
@@ -68,6 +69,3 @@ Soy un apasionado por el **análisis de datos, la visualización y el machine le
 - 📍 **Ubicación:** Buenos Aires, Argentina
 - ⏳ **Disponibilidad:** Remoto / Híbrido
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=pablolube&color=blue&style=flat-square&label=VISITAS+AL+PERFIL" alt="pablolube" />
-</div>
