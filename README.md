@@ -1,101 +1,101 @@
 # 👋 Hello world! I'm Pablo Luberriaga 🌎
 
-### Welcome to my GitHub profile
+### Data Analyst | Lic. en Administración | Científico de Datos en formación
 
-<a href="https://github.com/pablolube" target="_blank">
-  <img src="https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white" alt="GitHub" style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/Lubepablo" target="_blank">
-  <img src="https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white" alt="Twitter" style="margin-bottom: 5px;" />
-</a>
 <a href="https://linkedin.com/in/pabloluberriaga" target="_blank">
-  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
 </a>
 <a href="https://www.kaggle.com/pabloluberriaga" target="_blank">
-  <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" style="margin-bottom: 5px;" />
+  <img src="https://img.shields.io/badge/kaggle-%2344BAE8.svg?&style=for-the-badge&logo=kaggle&logoColor=white" alt="Kaggle" />
 </a>
-<a href="https://www.youtube.com/user/pablolube" target="_blank">
-  <img src="https://img.shields.io/badge/youtube-%23EE4831.svg?&style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" style="margin-bottom: 5px;" />
+<a href="mailto:pablolube@gmail.com">
+  <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" />
 </a>
 
 ---
 
-## 🚀 About Me
+## 🚀 Sobre mí
 
-I am passionate about **data analysis, visualization, and machine learning**. I enjoy using technology to simplify processes, generate insights, and help teams make data-driven decisions.  
+Soy un apasionado por el **análisis de datos, la visualización y el machine learning**. Disfruto utilizar la tecnología para simplificar procesos complejos, generar insights de valor y ayudar a los equipos a tomar decisiones basadas en datos.
 
-- 🔭 **Current role:** Data Analyst at the Department of Human Rights  
-- 🌱 **Learning:** Advanced data analytics, ML models, and dashboard automation  
-- 💬 **Ask me about:** Python, SQL, Power BI, Tableau, Data Processing & Visualization  
-
----
-
-## 💡 My Journey
-
-My journey into the data world began at **COEQUIPO**, analyzing processes and optimizing areas. I later worked on **SIGAF**, collaborating with multiple organizations.  
-
-As a **Human Rights Cabinet Advisor**, I created dashboards and integrated information across areas. I also led **international expansion projects** in B2B tech companies, designing strategies and measuring KPIs.  
-
-Currently, I’m pursuing a **Data Science degree at the University of La Plata**, complementing my learning with courses and practical projects.  
-
-Explore this repository to discover projects, case studies, and personal challenges  in **data analysis and business intelligence**.  
+- 🔭 **Rol actual:** Data Analyst en el Ministerio de Justicia y Derechos Humanos.
+- 🌱 **Aprendiendo:** Modelos avanzados de ML y automatización de procesos en la UNLP.
+- 💬 **Consultas sobre:** Python, SQL, Power BI, DAX y visualización de datos.
 
 ---
 
-## 🛠️ Languages & Tools
+## 💡 Mi Camino: De la Gestión al Dato
+
+Mi carrera ha sido una evolución constante hacia la toma de decisiones basada en evidencia. Empecé entendiendo las organizaciones desde su administración y hoy las potencio a través de la ciencia de datos.
+
+* **El origen en la Administración:** Como Licenciado en Administración (UNLP), mi base está en comprender la estructura y gestión interna de las organizaciones.
+* **Eficiencia en el Sector Público:** En la Secretaría de Derechos Humanos y la Contaduría General, transformé procesos operativos en flujos de información claros y sistemas de seguimiento como el SIGAF.
+* **Crecimiento en el Mundo Tech:** En ARCHGROUP, lideré la expansión internacional de empresas B2B, diseñando estrategias de mercado apoyadas 100% en KPIs y análisis competitivo.
+* **Actualidad y Evolución:** Hoy combino esa visión de negocio con el rigor técnico de la **Licenciatura en Ciencia de Datos (UNLP)**, aplicando procesos ETL y modelos predictivos para resolver problemas reales.
+
+---
+
+## 🛠️ Tecnologías y Herramientas
 
 <div align="center">
-  <a href="https://www.mysql.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="30" style="margin:5px;" /></a>
-  <a href="https://powerbi.microsoft.com/en-us/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/powerbi.png" alt="Power BI" height="30" style="margin:5px;" /></a>
-  <a href="https://www.python.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/python-original.svg" alt="Python" height="30" style="margin:5px;" /></a>
-  <a href="https://www.postgresql.org/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="30" style="margin:5px;" /></a>
-  <a href="https://www.tableau.com/" target="_blank"><img src="https://profilinator.rishav.dev/skills-assets/tableau.svg" alt="Tableau" height="30" style="margin:5px;" /></a>
+  <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
+  <img src="https://img.shields.io/badge/SQL-CC2927?style=for-the-badge&logo=sqlite&logoColor=white" />
+  <img src="https://img.shields.io/badge/Power_BI-F2C811?style=for-the-badge&logo=microsoft-power-bi&logoColor=black" />
+  <img src="https://img.shields.io/badge/Pandas-150458?style=for-the-badge&logo=pandas&logoColor=white" />
+  <img src="https://img.shields.io/badge/Looker_Studio-4285F4?style=for-the-badge&logo=google-cloud&logoColor=white" />
 </div>
-
----
-
-## 📊 GitHub Stats
-
-<table>
-<tr>
-<td valign="top" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablolube&show_icons=true&count_private=true&hide_border=true" style="width:100%" />
-</td>
-<td valign="top" width="50%">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablolube&hide_border=true&layout=compact" style="width:100%" />
-</td>
-</tr>
-</table>
-
-
 
 ---
 
 ## 📂 Portafolio: Proyectos Destacados
 
-> ### 📊 Análisis de Gestión Pública
-> **Enfoque:** Visualización de KPIs y Dashboards para la toma de decisiones gubernamentales.
-> **Tech:** `Power BI` `Looker Studio` `DAX` `SQL`.
-> [**Ver Repositorio →**](TU_LINK_AQUI)
-
-> ### 🐍 Machine Learning 
-> **Enfoque:** Modelado estadístico y predicción de datos aplicados a problemas de negocio.
-> **Tech:** `Python` `Pandas` `Scikit-Learn` `Scipy`.
-> [**Ver Repositorio →**](TU_LINK_AQUI)
-
-> ### 🗄️ Optimización de Procesos ETL
-> **Enfoque:** Limpieza, transformación y estructuración de grandes bases de datos
-> **Tech:** `SQL` `SSIS` `Power Query` `Python`
-> [**Ver Repositorio →**](TU_LINK_AQUI)
-
-> ### 🌎 Business Intelligence B2B
-> **Enfoque:** Análisis de penetración de mercados y seguimiento de estrategias de ventas.
-> **Tech:** `Excel Avanzado` `Power Pivot` `Tableau` `Google Analytics.
-> [**Ver Repositorio →**](TU_LINK_AQUI)
+### 📊 Gestión Pública & Analytics
+> **Enfoque:** Transformación de datos gubernamentales en Dashboards estratégicos para la toma de decisiones.
+> 
+> 🛠 **Tech Stack:** `Power BI` `Looker Studio` `SQL` `DAX`
+> 🔗 [**Explorar Repositorio →**](TU_LINK_AQUI)
 
 ---
+
+### 🐍 Machine Learning & Data Science
+> **Enfoque:** Desarrollo de modelos predictivos y análisis estadístico avanzado para resolución de problemas complejos.
+>  
+> 🛠 **Tech Stack:** `Python` `Pandas` `Scikit-Learn` `Scipy` `Numpy`
+> 🔗 [**Explorar Repositorio →**](TU_LINK_AQUI)
+
 ---
 
-## 🔗 Let's Connect
+### 🗄️ Ingeniería de Datos (ETL)
+> **Enfoque:** Arquitectura de procesos de limpieza y estructuración de datos a gran escala.
+> 
+> 🛠 **Tech Stack:** `SQL` `SSIS` `Python` `Power Query`
+> 🔗 [**Explorar Repositorio →**](TU_LINK_AQUI)
 
-I’m always open to **collaborate on data-driven projects** or discuss innovative solutions using data. Connect with me via [LinkedIn](https://www.linkedin.com/in/pabloluberriaga/) or reach out directly on GitHub!  
+---
+
+### 🌎 Estrategia B2B & BI
+> **Enfoque:** Análisis de mercado e internacionalización de empresas mediante métricas de crecimiento y KPIs.
+> 
+> 🛠 **Tech Stack:** `Excel Avanzado` `Power Pivot` `Tableau` `Google Analytics`
+> 🔗 [**Explorar Repositorio →**](TU_LINK_AQUI)
+
+---
+
+## 📊 GitHub Stats
+
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=pablolube&show_icons=true&theme=visual_studio_dark&hide_border=true" width="45%" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablolube&layout=compact&theme=visual_studio_dark&hide_border=true" width="45%" />
+</p>
+
+---
+
+## 🔗 ¡Conectemos!
+
+Estoy siempre abierto a colaborar en proyectos orientados a datos o discutir soluciones innovadoras. 
+
+* 💼 **LinkedIn:** [pabloluberriaga](https://linkedin.com/in/pabloluberriaga)
+* 📍 **Ubicación:** Buenos Aires, Argentina
+* ⏳ **Disponibilidad:** Remoto / Híbrido - Full Time o Part Time
+
+---
