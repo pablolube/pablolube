@@ -17,7 +17,8 @@
 
 ## 🚀 Sobre mí
 
-Licenciado en Administración apasionado por la **intersección entre el negocio y la ciencia de datos**. Me especializo en transformar datos complejos en tableros estratégicos y modelos predictivos que impulsan la toma de decisiones.
+Soy un apasionado por el **análisis de datos, la visualización y el machine learning**.Disfruto utilizar la tecnología para simplificar procesos complejos, generar insights de valor y ayudar a los equipos a tomar decisiones basadas en datos
+
 
 - 🔭 **Rol actual:** Data Analyst en el Ministerio de Justicia y Derechos Humanos.
 - 🌱 **Especialización:** Profesionalizándome en Ciencia de Datos en la **UNLP**.
@@ -41,13 +42,13 @@ Licenciado en Administración apasionado por la **intersección entre el negocio
 | 📊 Gestión Pública & Analytics | 🐍 Machine Learning & Data Science |
 | :--- | :--- |
 | **Enfoque:** Transformación de datos gubernamentales en Dashboards estratégicos. | **Enfoque:** Desarrollo de modelos predictivos y análisis estadístico avanzado. |
-| 🛠 `Power BI` `Looker Studio` `SQL` `DAX` | 🛠 `Python` `Pandas` `Scikit-Learn` `Numpy` |
+|  `Power BI` `Looker Studio` `SQL` `DAX` |  `Python` `Pandas` `Scikit-Learn` `Numpy` |
 | 🔗 [**Ver Proyecto →**](TU_LINK_AQUI) | 🔗 [**Ver Proyecto →**](TU_LINK_AQUI) |
 
 | 🗄️ Ingeniería de Datos (ETL) | 🌎 Estrategia B2B & BI |
 | :--- | :--- |
 | **Enfoque:** Arquitectura de procesos de limpieza y estructuración a gran escala. | **Enfoque:** Análisis de mercado e internacionalización mediante KPIs. |
-| 🛠 `SQL` `SSIS` `Python` `Power Query` | 🛠 `Excel` `Power Pivot` `Tableau` `GA4` |
+|  `SQL` `SSIS` `Python` `Power Query` |  `Excel` `Power Pivot` `Tableau` `GA4` |
 | 🔗 [**Ver Proyecto →**](TU_LINK_AQUI) | 🔗 [**Ver Proyecto →**](TU_LINK_AQUI) |
 
 ---
