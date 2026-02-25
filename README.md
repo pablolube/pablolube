@@ -53,16 +53,6 @@ Soy un apasionado por el **análisis de datos, la visualización y el machine le
 
 ---
 
-## 📊 Mi Actividad en GitHub
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pablolube&show_icons=true&theme=visual_studio_dark&hide_border=true&include_all_commits=true&count_private=true" width="48%" alt="Estadísticas de Pablo Luberriaga" />
-  
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pablolube&layout=compact&theme=visual_studio_dark&hide_border=true&langs_count=6" width="42%" alt="Lenguajes más usados" />
-</p>
-
----
-
 ## 🔗 ¡Conectemos!
 
 - 💼 **LinkedIn:** [pabloluberriaga](https://linkedin.com/in/pabloluberriaga)
